@@ -2,6 +2,7 @@
 
 echo "File has been edited in remote repository"
 echo "Welcome to the master branch"
+echo "Testing sshurl"
 
 echo "Welecome to the development branch"
 echo "enter the two number"
