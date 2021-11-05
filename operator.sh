@@ -23,4 +23,5 @@ div()
 d=`expr $1 / $2`
 echo "output of div:"$d
 }
+echo "output of div:"$d
 
